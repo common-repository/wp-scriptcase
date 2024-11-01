@@ -1,0 +1,5 @@
+#button-dialog { }
+#button-dialog div{ padding: 5px 0; height: 20px;}
+#button-dialog label { display: block; float: left; margin: 0 8px 0 0; width: 100px; }
+#button-dialog input { display: block; float: right; width: 200px; padding: 3px 5px;}
+#button-dialog #insert { display: block; line-height: 24px; text-align: center; margin: 10px 0 0 0; float: right; text-decoration: none}
